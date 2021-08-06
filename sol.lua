@@ -1,4 +1,4 @@
-- 使用Lua5.2的bit库
+-- 使用Lua5.2的bit库
 require "bit32"
 do
     -- 创建一个新的dissector
